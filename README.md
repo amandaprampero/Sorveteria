@@ -9,6 +9,7 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciar uma sorvet
 - **Controle e Gerenciamento de Estoque**
 - **Cadastro e Gerenciamento de Clientes e Pedidos**
 - **Sistema de Entregas**
+  
 ## Funcionalidades
 
 - **Cliente**:
@@ -22,10 +23,14 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciar uma sorvet
   - Gerenciar o estoque
   - Adicionar sabores ao cardápio
   - Contratar/Demitir entregadores
-
+ 
 ## Como Executar o Projeto
 
 1. Clone este repositório para sua máquina local.
 2. Importe o projeto para a IDE de sua preferência (recomendado: IntelliJ IDEA).
 3. Execute o arquivo principal do projeto para iniciar o sistema.
 4. Siga as instruções na interface para utilizar as funcionalidades disponíveis.
+
+## Vídeo demonstrativo
+[![Assista ao vídeo!](https://img.youtube.com/vi/seu_video_id/0.jpg)](https://youtu.be/1tdqBvZQSvI)
+
