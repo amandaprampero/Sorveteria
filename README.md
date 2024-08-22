@@ -32,5 +32,5 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciar uma sorvet
 4. Siga as instruções na interface para utilizar as funcionalidades disponíveis.
 
 ## Vídeo demonstrativo
-[![Assista ao vídeo!](https://img.youtube.com/vi/seu_video_id/0.jpg)](https://youtu.be/1tdqBvZQSvI)
+[![Assista ao vídeo aqui!](https://img.youtube.com/vi/1tdqBvZQSvI/0.jpg)](https://youtu.be/1tdqBvZQSvI)
 
