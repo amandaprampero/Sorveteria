@@ -36,6 +36,7 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciar uma sorvet
 
 ## Desenvolvedoras
 Projeto criado com carinho por:
+
 <a href="https://github.com/amandaprampero">
   <img src="https://github.com/amandaprampero.png" width="80" style="border-radius: 50%;">
 </a>
