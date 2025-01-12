@@ -1,4 +1,4 @@
-# Sistema de Sorveteria
+# Sistema de Sorveteria 🍦
 
 ## Descrição do Projeto
 
@@ -30,6 +30,15 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciar uma sorvet
 2. Importe o projeto para a IDE de sua preferência (recomendado: IntelliJ IDEA).
 3. Execute o arquivo principal do projeto para iniciar o sistema.
 4. Siga as instruções na interface para utilizar as funcionalidades disponíveis.
+
+## Desenvolvedoras
+Projeto criado com carinho por:
+<a href="https://github.com/amandaprampero">
+  <img src="https://github.com/amandaprampero.png" width="80">
+</a>
+<a href="https://github.com/juliamendes104">
+  <img src="https://github.com/juliamendes104.png" width="80">
+</a>
 
 ## Vídeo demonstrativo
 [![Assista ao vídeo aqui!](https://img.youtube.com/vi/1tdqBvZQSvI/0.jpg)](https://youtu.be/1tdqBvZQSvI)
